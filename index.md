@@ -65,6 +65,14 @@ The project implemented Akamai caching policies and traffic optimization rules t
 
 ---
 
+## Architecture
+
+![Architecture](assets/images/architecture.png)
+
+## Performance Results
+
+![Performance Improvements](assets/images/performance-chart.png)
+
 ## Results
 
 | Metric | Before | After |
