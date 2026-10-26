@@ -36,7 +36,7 @@ Experienced DevOps Engineer focused on large-scale web applications, CDN optimiz
 
 ## Enterprise Web Performance Optimization Using Akamai CDN
 
-https://github.com/FranciscoMond/akamai-enterprise-web-delivery
+[Capstone Project]([resume.pdf](https://github.com/FranciscoMond/akamai-enterprise-web-delivery))
 
 ### Project Overview
 
